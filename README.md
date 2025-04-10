@@ -1,93 +1,149 @@
 - 👋 Hi, I’m @Raghav0079
-# Exploratory Data Analysis (EDA) Repository
+# Exploratory Data Analysis (EDA) and Data Manipulation with Pandas
 
-This repository contains Jupyter notebooks demonstrating data analysis and manipulation using Python libraries like Pandas, NumPy and Seaborn.
+This repository contains two Jupyter notebooks that demonstrate various data analysis, manipulation, and visualization techniques using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn.
 
-## Contents
+---
 
-- Data manipulation with Pandas
-- Data visualization using Seaborn
-- Machine Learning examples (Logistic Regression)
-- Data cleaning and preprocessing
-- List comprehensions and functions in Python
-- Reading different data formats:
-  - CSV files
-  - JSON files
-  - HTML content
+## Notebooks Overview
 
-## Key Examples
+### 1. `pandas.ipynb`
+This notebook focuses on data manipulation and analysis using Pandas and NumPy. It includes examples of creating DataFrames, performing operations, and generating plots.
 
-1. DataFrame operations
-2. Data visualization including:
-   - Histograms
-   - Violin plots 
-3. Working with common datasets:
-   - Iris dataset
-   - Titanic dataset
+#### Key Steps:
+1. **DataFrame Creation**:
+   - Demonstrates creating DataFrames from dictionaries, NumPy arrays, and random data.
+   - Example:
+     ```python
+     df = pd.DataFrame(np.random.randn(5, 3), columns=['A', 'B', 'C'])
+     ```
+
+2. **DataFrame Operations**:
+   - Accessing rows and columns using `.loc` and `.iloc`.
+   - Applying functions to DataFrames using `.apply()` and `.applymap()`.
+
+3. **Data Visualization**:
+   - **Scatter Plot**:
+     - Created using Seaborn to visualize relationships between variables.
+     - Example:
+       ```python
+       sns.scatterplot(data=tips, x="total_bill", y="tip", hue="sex")
+       plt.show()
+       ```
+   - **Histogram**:
+     - Displays the distribution of random data.
+     - Example:
+       ```python
+       plt.hist(data, bins=30, edgecolor='black')
+       plt.title('Histogram of Random Data')
+       plt.show()
+       ```
+   - **Box Plot**:
+     - Visualizes the distribution of data with quartiles.
+     - Example:
+       ```python
+       plt.boxplot(data, vert=False, patch_artist=True)
+       ```
+
+4. **Reading and Writing Data**:
+   - Reading CSV, JSON, and HTML files.
+   - Writing DataFrames to CSV and JSON formats.
+
+5. **Advanced Data Manipulation**:
+   - Reindexing, renaming columns, and handling missing values.
+   - Example:
+     ```python
+     df_reindexed = df.reindex(new_index)
+     ```
+
+---
+
+### 2. `advanced python.ipynb`
+This notebook demonstrates advanced Python concepts, including list comprehensions, functions, and logistic regression.
+
+#### Key Steps:
+1. **List Comprehensions**:
+   - Examples of creating lists with conditions and transformations.
+   - Example:
+     ```python
+     lst1 = [i * i for i in lst if i % 2 == 0]
+     ```
+
+2. **Functions**:
+   - Demonstrates defining and using functions, including lambda functions.
+   - Example:
+     ```python
+     add = lambda a, b: a + b
+     ```
+
+3. **Data Cleaning**:
+   - Handling missing values and encoding categorical variables.
+   - Example:
+     ```python
+     train = train.drop('Cabin', axis=1)
+     ```
+
+4. **Logistic Regression**:
+   - Building a logistic regression model using Scikit-learn.
+   - Example:
+     ```python
+     logmodel = LogisticRegression()
+     logmodel.fit(X_train, y_train)
+     ```
+
+5. **Data Visualization**:
+   - **Count Plot**:
+     - Displays the count of categorical variables.
+     - Example:
+       ```python
+       sns.countplot(x='Survived', data=train)
+       ```
+   - **Heatmap**:
+     - Visualizes missing values in the dataset.
+     - Example:
+       ```python
+       sns.heatmap(train.isnull(), cbar=True, cmap='viridis')
+       ```
+   - **Box Plot**:
+     - Shows the distribution of age across passenger classes.
+     - Example:
+       ```python
+       sns.boxplot(x='Pclass', y='Age', data=train)
+       ```
+
+---
+
+## Plots Highlighted
+
+### Scatter Plot
+- **Notebook**: `pandas.ipynb`
+- **Description**: Visualizes the relationship between `total_bill` and `tip` with hue based on `sex`.
+
+### Histogram
+- **Notebook**: `pandas.ipynb`
+- **Description**: Displays the frequency distribution of random data.
+
+### Box Plot
+- **Notebook**: Both
+- **Description**: Shows data distribution with quartiles.
+
+### Count Plot
+- **Notebook**: `advanced python.ipynb`
+- **Description**: Displays the count of survivors in the Titanic dataset.
+
+### Heatmap
+- **Notebook**: `advanced python.ipynb`
+- **Description**: Visualizes missing values in the Titanic dataset.
+
+---
 
 ## Getting Started
 
-To run these notebooks, you'll need:
-
+To run these notebooks, you'll need the following libraries installed:
 ```python
 import pandas as pd
 import numpy as np
 import seaborn as sns
-```
-
-## Project Structure
-
-- `pandas.ipynb` - Main notebook containing data analysis examples
-- `data.csv`, `data.json` - Sample data files used in examples
-
-  ## Data Visualizations
-
-The repository includes various types of visualizations created using Matplotlib and Seaborn:
-
-### Basic Plots
-- **Line Plots**: Basic 2D line plots demonstrating trends
-- **Scatter Plots**: Showing relationships between variables like total bill vs tips
-- **Bar Plots**: Displaying categorical data counts and comparisons
-
-### Statistical Visualizations
-- **Box Plots**: Showing distribution characteristics by sex, smoker status
-- **Violin Plots**: Combining box plot with kernel density estimation
-- **Histograms**: Distribution of numerical variables with various bin sizes
-- **Heat Maps**: Correlation matrices and missing value visualization
-- **Kernel Density Plots (KDE)**: Smoothed versions of histograms
-
-### Advanced Visualizations
-- **Joint Plots**: Combining scatter plots with marginal distributions
-- **Pair Plots**: Matrix of scatter plots showing relationships between multiple variables
-- **Faceted Plots**: Multiple plots arranged in a grid
-- **Count Plots**: Showing frequency of categorical variables
-- **Distribution Plots**: Advanced visualizations of data distributions
-
-### Plot Customizations
-- Custom color palettes (e.g., 'rainbow', 'viridis')
-- Figure size adjustments
-- Legend modifications
-- Grid additions
-- Title and label formatting
-- Alpha (transparency) adjustments
-
-### Example Datasets Used
-- Tips dataset
-- Iris dataset
-- Titanic dataset
-- Random generated data
-
-All visualizations include proper labeling, titles, and color schemes for better interpretation.
-
-
-
-### Contributing
--Contributions are always welcome! If you have ideas for improvements, corrections, or new examples, feel free to fork the repository and submit a pull request. Please ensure your code is well-documented and adheres to the repository's style guidelines.
-
-### License
--This repository is licensed under the MIT License. You are free to use, modify, and distribute the code, but don't forget to include the original license file. See the LICENSE file for more details.
-
-### Acknowledgments
--A big thanks to the open-source community and the creators of Pandas, NumPy, Seaborn, and Matplotlib for providing such powerful tools for data analysis and visualization.
+import matplotlib.pyplot as plt
 
 
