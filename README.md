@@ -59,7 +59,7 @@ Hey there ! I'm Raghav Mishra <br>I'm currently working on Machine Learning and 
 
 
 ### Tools
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=flat)
+![LangFlow](https://img.shields.io/badge/LangFlow-000000?style=flat)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat&logo=google&logoColor=white)
 ![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=flat&logo=zotero&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
