@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hey there ! I'm Raghav Mishra <br>I'm currently working on Machine Learning and Generative Ai
+Hey there ! I'm Raghav Mishra <br>I'm currently working on Machine Learning 
 
 
 ## 🌐 Socials:
