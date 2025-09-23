@@ -42,8 +42,7 @@ Hey there ! I'm Raghav Mishra <br>I'm currently working on Machine Learning
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=flat)
 
 ### ⚡ Git
-![CI](https://img.shields.io/github/actions/workflow/status/Raghav0079/Raghav0079/ci.yml?branch=main&label=CI)
-![Lint](https://img.shields.io/github/actions/workflow/status/Raghav0079/Raghav0079/lint.yml?branch=main&label=Lint)
+![GitHub Actions ](https://www.google.com/imgres?q=github%20actions%20logo&imgurl=https%3A%2F%2Fsimplelocalize.io%2Fblog%2Fgithub-app%2Fgithub-actions-for-localization.jpg&imgrefurl=https%3A%2F%2Fsimplelocalize.io%2Fblog%2Fposts%2Fgithub-actions-for-localization%2F&docid=OHcXcuNXhI5J3M&tbnid=jpQE5NQrGdNGiM&vet=12ahUKEwiVv8ONnO-PAxWVk68BHYTIAcEQM3oECCMQAA..i&w=1652&h=1105&hcb=2&ved=2ahUKEwiVv8ONnO-PAxWVk68BHYTIAcEQM3oECCMQAA)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
