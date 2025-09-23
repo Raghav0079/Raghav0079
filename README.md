@@ -62,7 +62,6 @@ Hey there ! I'm Raghav Mishra <br>I'm currently working on Machine Learning
 ### Tools
 ![LangFlow](https://img.shields.io/badge/LangFlow-000000?style=flat)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
-![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=flat&logo=zotero&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 
