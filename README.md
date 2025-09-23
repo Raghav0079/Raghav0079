@@ -41,7 +41,9 @@ Hey there ! I'm Raghav Mishra <br>I'm currently working on Machine Learning
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=flat)
 
-#### 📁 Repositories
+### ⚡ Git
+![CI](https://img.shields.io/github/actions/workflow/status/Raghav0079/Raghav0079/ci.yml?branch=main&label=CI)
+![Lint](https://img.shields.io/github/actions/workflow/status/Raghav0079/Raghav0079/lint.yml?branch=main&label=Lint)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
