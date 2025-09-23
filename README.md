@@ -4,7 +4,7 @@
 Hey there ! I'm Raghav Mishra <br>I'm currently working on Machine Learning 
 
 
-## 🌐 Socials:
+## 🌐 Connect Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rm1.0291) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raghav-mishra-9a4431329) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/rm1_290) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@raghav051006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghav051006@gmail.com) 
 
 ## 🚀 Tech Stack
@@ -42,10 +42,11 @@ Hey there ! I'm Raghav Mishra <br>I'm currently working on Machine Learning
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=flat)
 
 ### ⚡ Git
-![GitHub Actions ](https://www.google.com/imgres?q=github%20actions%20logo&imgurl=https%3A%2F%2Fsimplelocalize.io%2Fblog%2Fgithub-app%2Fgithub-actions-for-localization.jpg&imgrefurl=https%3A%2F%2Fsimplelocalize.io%2Fblog%2Fposts%2Fgithub-actions-for-localization%2F&docid=OHcXcuNXhI5J3M&tbnid=jpQE5NQrGdNGiM&vet=12ahUKEwiVv8ONnO-PAxWVk68BHYTIAcEQM3oECCMQAA..i&w=1652&h=1105&hcb=2&ved=2ahUKEwiVv8ONnO-PAxWVk68BHYTIAcEQM3oECCMQAA)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
 
 #### 📊 Visualization
 ![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=flat&logo=wandb&logoColor=black)
