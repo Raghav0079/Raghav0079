@@ -1,7 +1,21 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hey there ! I'm Raghav Mishra <br>I'm currently working on Machine Learning 
+I am Raghav Mishra, an aspiring researcher and developer with a strong focus on Artificial Intelligence, Machine Learning, and Deep Learning. My work is centered on creating practical, impactful solutions by combining research with real-world applications.
+
+🔹 Experienced in building AI/ML systems for safety, urban intelligence, and predictive analytics
+
+🔹 Skilled in data analysis, model development, and system integration
+
+🔹 Currently working on projects including:
+
+Coal Mine Safety System using hybrid ML models integrated into smart helmets
+
+City Pulse Agent, an AI-powered urban intelligence system for real-time civic data analysis
+
+🔹 Passionate about research-driven innovation and contributing to open-source communities
+
+📌 Open to collaborations in AI research, ML/DL projects, and applied data-driven systems.
 
 
 ## 🌐 Connect Me:
