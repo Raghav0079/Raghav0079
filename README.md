@@ -104,15 +104,3 @@ I hold **two published Indian patents** in AI-based surveillance and wearable sa
 - Microsoft Certified: Azure Fundamentals — *Microsoft, 2025*
 - Google Cloud Engineering Certificate — *Google, 2025*
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Raghav0079&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Raghav0079&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav0079&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
