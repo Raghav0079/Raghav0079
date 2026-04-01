@@ -116,22 +116,3 @@ I hold **two published Indian patents** in AI-based surveillance and wearable sa
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Raghav0079&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-<div align="center">
-
-*Open to collaborations in applied AI, LLM systems, and intelligent deployment.*
-
-[![](https://visitcount.itsvg.in/api?id=Raghav0079&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
