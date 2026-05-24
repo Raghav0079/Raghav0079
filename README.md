@@ -5,8 +5,7 @@
 <br/>
 
 ```
-B.Tech (Hons.) AI · SAGE University, Indore
-Building end-to-end intelligent systems — from model internals to production deployment.
+
 ```
 
 <br/>
