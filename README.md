@@ -31,7 +31,7 @@ I'm a **B.Tech (Hons.) AI student** at SAGE University, Indore, building at the 
 
 - 🔬 &nbsp; Architecting dual-inference backends with SLMs (Ollama) & cloud-deployed LLMs
 - 🛠️ &nbsp; Building LLM orchestration layers with intent resolution & contract-based output validation
-- 🌐 &nbsp; Open-source contributor — GSSoC 2026 (BugViper, merged PR)
+- 🌐 &nbsp; Open-source contributor — GSSoC 2026
 - 📜 &nbsp; Two published **Indian Patents** in AI-based safety & surveillance systems
 - ☁️ &nbsp; Certified across **AWS · Azure · GCP**
 - 📖 &nbsp; Always reading papers, always shipping code
@@ -164,16 +164,6 @@ I'm a **B.Tech (Hons.) AI student** at SAGE University, Indore, building at the 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</div>
-
----
-
-## ◈ Top Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav0079&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="45%"/>
 
 </div>
 
