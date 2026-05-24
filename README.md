@@ -5,17 +5,17 @@
 <br/>
 
 ```
-Undergraduate AI student building end-to-end intelligent systems —
-from model internals to production deployment.
+B.Tech (Hons.) AI · SAGE University, Indore
+Building end-to-end intelligent systems — from model internals to production deployment.
 ```
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghav-mishra-9a4431329)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-mishra-9a4431329/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raghav0079)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Raghav_385/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=oMkMaCsAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghav051006@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@raghav051006)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/rm1_290)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rm1.0291)
 
 <br/>
 
@@ -27,11 +27,12 @@ from model internals to production deployment.
 
 <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=Raghav0079&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" />
 
-I'm a **B.Tech (Hons.) AI student** focused on applied AI research and real-world intelligent system deployment. I work at the intersection of **LLMs, deep learning, and production-grade AI systems** — building everything from model internals to scalable inference pipelines.
+I'm a **B.Tech (Hons.) AI student** at SAGE University, Indore, building at the intersection of **LLMs, deep learning, and production-grade AI systems**. Currently working as an **ML Engineer Intern** integrating Small Language Models into scalable inference frameworks using parameter-efficient tuning and quantization.
 
-- 🔬 &nbsp; Integrating SLMs with parameter-efficient tuning & quantization
-- 📜 &nbsp; Two published **Indian Patents** in AI-based safety systems
-- ⚙️ &nbsp; Building agentic AI frameworks with LangChain & LangGraph
+- 🔬 &nbsp; Architecting dual-inference backends with SLMs (Ollama) & cloud-deployed LLMs
+- 🛠️ &nbsp; Building LLM orchestration layers with intent resolution & contract-based output validation
+- 🌐 &nbsp; Open-source contributor — GSSoC 2026 (BugViper, merged PR)
+- 📜 &nbsp; Two published **Indian Patents** in AI-based safety & surveillance systems
 - ☁️ &nbsp; Certified across **AWS · Azure · GCP**
 - 📖 &nbsp; Always reading papers, always shipping code
 
@@ -62,25 +63,37 @@ I'm a **B.Tech (Hons.) AI student** focused on applied AI research and real-worl
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 </div>
 
 ---
 
-### ⬡ ML / DL Frameworks
+### ⬡ Machine Learning
+
+<div align="center">
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge&logoColor=white)
+![SVM](https://img.shields.io/badge/SVM-764ABC?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+### ⬡ Deep Learning
 
 <div align="center">
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=wandb&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
 
@@ -93,15 +106,20 @@ I'm a **B.Tech (Hons.) AI student** focused on applied AI research and real-worl
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1a1a2e?style=for-the-badge&logoColor=white)
 ![LangFlow](https://img.shields.io/badge/LangFlow-1a1a2e?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-7c3aed?style=for-the-badge&logoColor=white)
 
 </div>
 
 ---
 
-### ⬡ Data Science
+### ⬡ Data Engineering
 
 <div align="center">
 
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
@@ -128,8 +146,8 @@ I'm a **B.Tech (Hons.) AI student** focused on applied AI research and real-worl
 
 <div align="center">
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
@@ -140,14 +158,12 @@ I'm a **B.Tech (Hons.) AI student** focused on applied AI research and real-worl
 
 <div align="center">
 
-![Gradio](https://img.shields.io/badge/Gradio-3C1E8E?style=for-the-badge&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-3C1E8E?style=for-the-badge&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 
@@ -169,8 +185,8 @@ I'm a **B.Tech (Hons.) AI student** focused on applied AI research and real-worl
 
 | # | Title | Patent No. | Published |
 |---|-------|-----------|-----------|
-| 01 | **Electronic Surveillance System** — Intelligent architecture integrating computer vision & sensor-based real-time anomaly detection | `202621007402 A` | March 2026 |
-| 02 | **Wearable Safety Helmet System** — AI-enabled hybrid ML architecture for predictive threat assessment in hazardous environments | `202621003592 A` | February 2026 |
+| 01 | **Electronic Surveillance System** — Intelligent surveillance architecture integrating computer vision & sensor-based real-time anomaly detection | `202621007402 A` | March 2026 |
+| 02 | **Wearable Safety Helmet System** — AI-enabled hybrid ML architecture for predictive threat assessment in hazardous environments (coal mines) | `202621003592 A` | February 2026 |
 
 </div>
 
@@ -180,10 +196,10 @@ I'm a **B.Tech (Hons.) AI student** focused on applied AI research and real-worl
 
 <div align="center">
 
-![AWS NLP](https://img.shields.io/badge/AWS%20ML%20for%20NLP-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Data Eng](https://img.shields.io/badge/AWS%20Data%20Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud%20Engineering-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+[![AWS NLP](https://img.shields.io/badge/AWS%20ML%20for%20NLP-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/go/yme363cZ)
+[![AWS Data Eng](https://img.shields.io/badge/AWS%20Data%20Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/ed330bb9-22ae-4215-b152-0204cf9c8700/public_url)
+[![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/6e3edb70-7d9d-4586-b9e7-36e416004475/public_url)
+[![GCP Engineering](https://img.shields.io/badge/Google%20Cloud%20Engineering-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/744ee383-f948-47ba-8b8d-4f0f9a38ab2a/public_url)
 
 </div>
 
