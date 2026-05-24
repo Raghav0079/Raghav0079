@@ -4,10 +4,6 @@
 
 <br/>
 
-```
-
-```
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-mishra-9a4431329/)
