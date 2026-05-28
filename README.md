@@ -19,10 +19,6 @@
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
-![Profile Views](https://komarev.com/ghpvc/?username=Raghav0079&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Raghav0079?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
-
 </div>
 
 <br/>
