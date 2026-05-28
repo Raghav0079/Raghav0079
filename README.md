@@ -3,9 +3,9 @@
 <!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0d1a,60:1a0533,100:2d1b69&height=220&section=header&text=Raghav%20Mishra&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Researcher%20%E2%80%94%20Builder&descAlignY=60&descColor=c4b5fd&animation=fadeIn&fontAlign=50" width="100%"/>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION — single line cycling, no multiline, generous width -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+end-to-end+intelligent+systems+%F0%9F%A7%A0;From+model+internals+%E2%86%92+production+deployment+%F0%9F%9A%80;LLMs+%C2%B7+Deep+Learning+%C2%B7+Agentic+AI+%C2%B7+Data+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=40&lines=Building+end-to-end+intelligent+systems+%F0%9F%A7%A0;From+model+internals+%E2%86%92+production+deployment+%F0%9F%9A%80;LLMs+%C2%B7+Deep+Learning+%C2%B7+Agentic+AI+%C2%B7+Data+Engineering" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -31,39 +31,33 @@
 
 ## ◈ About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<!-- GitHub stats card floated right using markdown-compatible img align -->
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=Raghav0079&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true" />
 
 **B.Tech (Hons.) in AI** @ SAGE University, Indore `2024 – 2028` · CGPA **8.02**
 
-Currently working as an **ML Engineer Intern** — integrating Small Language Models into scalable inference frameworks using parameter-efficient tuning and quantization.
+Currently an **ML Engineer Intern** — integrating Small Language Models into scalable inference frameworks using parameter-efficient tuning and quantization.
 
 ```yaml
 focus:
-  - Dual-inference backends: Ollama SLMs + AWS Bedrock
+  - Dual-inference: Ollama SLMs + AWS Bedrock LLMs
   - LLM orchestration: intent resolution & output validation
-  - Configuration-driven pipeline generation at scale
+  - Config-driven pipeline generation at scale
 
 open_source:
-  - GSSoC 2026 contributor — BugViper (PR #15 merged)
-  - Fixed thread-safety race condition in tree-sitter parser
+  - GSSoC 2026 — BugViper (PR #15 merged)
+  - Fixed thread-safety bug in tree-sitter parser
 
 achievements:
   - 2x Indian Patent holder (CV + Wearable AI)
   - Certified: AWS · Azure · GCP
 ```
 
-</td>
-<td width="45%" align="center" valign="top">
+<br clear="right"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Raghav0079&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav0079&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" width="100%"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav0079&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=7" width="46%"/>
+</div>
 
 ---
 
@@ -73,12 +67,10 @@ achievements:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghav0079&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=c4b5fd&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&border_radius=8" width="75%"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav0079&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=2d1b69&hide_border=true&custom_title=Contribution%20Graph&title_color=a78bfa&radius=6" width="97%"/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav0079&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=2d1b69&hide_border=true&custom_title=◈%20Contribution%20Graph&title_color=a78bfa&radius=6" width="97%"/>
 </div>
 
 ---
@@ -87,7 +79,6 @@ achievements:
 
 <div align="center">
 
-<!-- ROW 1: Languages -->
 **`[ Languages ]`**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -100,7 +91,6 @@ achievements:
 
 <br/>
 
-<!-- ROW 2: ML -->
 **`[ Machine Learning ]`**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -111,7 +101,6 @@ achievements:
 
 <br/>
 
-<!-- ROW 3: Deep Learning -->
 **`[ Deep Learning ]`**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -122,7 +111,6 @@ achievements:
 
 <br/>
 
-<!-- ROW 4: LLM -->
 **`[ LLM & Agentic AI ]`**
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
@@ -134,7 +122,6 @@ achievements:
 
 <br/>
 
-<!-- ROW 5: Data Engineering -->
 **`[ Data Engineering ]`**
 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
@@ -146,7 +133,6 @@ achievements:
 
 <br/>
 
-<!-- ROW 6: Databases -->
 **`[ Databases ]`**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -156,7 +142,6 @@ achievements:
 
 <br/>
 
-<!-- ROW 7: Cloud -->
 **`[ Cloud Platforms ]`**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -165,7 +150,6 @@ achievements:
 
 <br/>
 
-<!-- ROW 8: Tools -->
 **`[ Dev Tools & Interfaces ]`**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -182,28 +166,10 @@ achievements:
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-**📡 Electronic Surveillance System**
-`Indian Patent No. 202621007402 A`
-Published · *13 March 2026*
-
-Intelligent surveillance architecture integrating **computer vision** for real-time anomaly detection with automated threat identification via edge & centralized processing.
-
-</td>
-<td align="center" width="50%">
-
-**⛑️ Wearable Safety Helmet System**
-`Indian Patent No. 202621003592 A`
-Published · *27 February 2026*
-
-AI-enabled helmet with **environmental sensors** for real-time hazard detection in coal mines — hybrid ML architecture with edge-computing inference for low-latency risk classification.
-
-</td>
-</tr>
-</table>
+| | Title | Patent No. | Published |
+|:---:|-------|:---:|:---:|
+| 📡 | **Electronic Surveillance System** — Computer vision architecture for real-time anomaly detection with automated threat identification | `202621007402 A` | Mar 2026 |
+| ⛑️ | **Wearable Safety Helmet System** — Hybrid ML + edge-computing inference for low-latency hazard classification in coal mines | `202621003592 A` | Feb 2026 |
 
 </div>
 
@@ -224,7 +190,7 @@ AI-enabled helmet with **environmental sensors** for real-time hazard detection 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:000000&height=120&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:000000&height=120&section=footer" width="100%"/>
 
 *Always reading papers. Always shipping code.*
 
