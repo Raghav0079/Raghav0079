@@ -3,14 +3,12 @@
 <!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0d1a,60:1a0533,100:2d1b69&height=220&section=header&text=Raghav%20Mishra&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Researcher%20%E2%80%94%20Builder&descAlignY=60&descColor=c4b5fd&animation=fadeIn&fontAlign=50" width="100%"/>
 
-<!-- TYPING ANIMATION — single line cycling, no multiline, generous width -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=40&lines=Building+end-to-end+intelligent+systems+%F0%9F%A7%A0;From+model+internals+%E2%86%92+production+deployment+%F0%9F%9A%80;LLMs+%C2%B7+Deep+Learning+%C2%B7+Agentic+AI+%C2%B7+Data+Engineering" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- PROFILE BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-mishra-9a4431329/)
 [![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Raghav0079)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Raghav_385/)
@@ -27,7 +25,6 @@
 
 ## ◈ About Me
 
-<!-- GitHub stats card floated right using markdown-compatible img align -->
 <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=Raghav0079&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true" />
 
 **B.Tech (Hons.) in AI** @ SAGE University, Indore `2024 – 2028` · CGPA **8.02**
@@ -45,7 +42,7 @@ open_source:
   - Fixed thread-safety bug in tree-sitter parser
 
 achievements:
-  - 2x Indian Patent holder (CV + Wearable AI)
+  - 3x Indian Patent holder (CV + Wearable AI + Secure Hardware)
   - Certified: AWS · Azure · GCP
 ```
 
@@ -164,6 +161,7 @@ achievements:
 
 | | Title | Patent No. | Published |
 |:---:|-------|:---:|:---:|
+| 🔒 | **Apparatus for Secure Offline Transaction** — Impedance-based PCB fingerprinting with tamper detection for hardware-level transaction security | `202621044826 A` | Jun 2026 |
 | 📡 | **Electronic Surveillance System** — Computer vision architecture for real-time anomaly detection with automated threat identification | `202621007402 A` | Mar 2026 |
 | ⛑️ | **Wearable Safety Helmet System** — Hybrid ML + edge-computing inference for low-latency hazard classification in coal mines | `202621003592 A` | Feb 2026 |
 
