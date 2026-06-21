@@ -75,44 +75,81 @@ class AIEngineer:
 
 <div align="center">
 
-**Languages**
+**`[ Languages ]`**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,r,julia,postgres,mongodb,latex&theme=dark&perline=10"/>
+![Python](https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=7C3AED)
+![C](https://img.shields.io/badge/C-1A1B27?style=for-the-badge&logo=c&logoColor=7C3AED)
+![C++](https://img.shields.io/badge/C++-1A1B27?style=for-the-badge&logo=cplusplus&logoColor=7C3AED)
+![Java](https://img.shields.io/badge/Java-1A1B27?style=for-the-badge&logo=oracle&logoColor=7C3AED)
+![JavaScript](https://img.shields.io/badge/JavaScript-1A1B27?style=for-the-badge&logo=javascript&logoColor=7C3AED)
+![R](https://img.shields.io/badge/R-1A1B27?style=for-the-badge&logo=r&logoColor=7C3AED)
+![Julia](https://img.shields.io/badge/Julia-1A1B27?style=for-the-badge&logo=julia&logoColor=7C3AED)
+![SQL](https://img.shields.io/badge/SQL-1A1B27?style=for-the-badge&logo=postgresql&logoColor=7C3AED)
+![NoSQL](https://img.shields.io/badge/NoSQL-1A1B27?style=for-the-badge&logo=mongodb&logoColor=7C3AED)
+![LaTeX](https://img.shields.io/badge/LaTeX-1A1B27?style=for-the-badge&logo=latex&logoColor=7C3AED)
 
-<br/><br/>
-
-**Machine Learning · Deep Learning**
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=10"/>
 
-<br/><br/>
-
-**LLM & Agentic AI**
+**`[ Machine Learning · Deep Learning ]`**
 <br/>
-<img src="https://skillicons.dev/icons?i=huggingface,langchain&theme=dark&perline=10"/>
+![PyTorch](https://img.shields.io/badge/PyTorch-1A1B27?style=for-the-badge&logo=pytorch&logoColor=A78BFA)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1A1B27?style=for-the-badge&logo=tensorflow&logoColor=A78BFA)
+![Keras](https://img.shields.io/badge/Keras-1A1B27?style=for-the-badge&logo=keras&logoColor=A78BFA)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-1A1B27?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA)
+![OpenCV](https://img.shields.io/badge/OpenCV-1A1B27?style=for-the-badge&logo=opencv&logoColor=A78BFA)
+![Transformers](https://img.shields.io/badge/Transformers-1A1B27?style=for-the-badge&logo=huggingface&logoColor=A78BFA)
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1a1a2e?style=flat-square&logoColor=white)
-![LangFlow](https://img.shields.io/badge/LangFlow-1a1a2e?style=flat-square&logoColor=white)
-![Unsloth](https://img.shields.io/badge/Unsloth-7c3aed?style=flat-square&logoColor=white)
-
-<br/><br/>
-
-**Data Engineering · Databases · Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,actions,docker,nodejs,mysql,neo4j&theme=dark&perline=10"/>
 
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-<br/><br/>
-
-**Dev Tools & Interfaces**
+**`[ LLM & Agentic AI ]`**
 <br/>
-<img src="https://skillicons.dev/icons?i=streamlit&theme=dark&perline=10"/>
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1A1B27?style=for-the-badge&logo=huggingface&logoColor=C4B5FD)
+![LangChain](https://img.shields.io/badge/LangChain-1A1B27?style=for-the-badge&logo=langchain&logoColor=C4B5FD)
+![LangGraph](https://img.shields.io/badge/LangGraph-1A1B27?style=for-the-badge&logoColor=C4B5FD)
+![LangFlow](https://img.shields.io/badge/LangFlow-1A1B27?style=for-the-badge&logoColor=C4B5FD)
+![Ollama](https://img.shields.io/badge/Ollama-1A1B27?style=for-the-badge&logoColor=C4B5FD)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-1A1B27?style=for-the-badge&logo=amazonaws&logoColor=C4B5FD)
+![Unsloth](https://img.shields.io/badge/Unsloth-1A1B27?style=for-the-badge&logoColor=C4B5FD)
 
-![Gradio](https://img.shields.io/badge/Gradio-3C1E8E?style=flat-square&logoColor=white)
+<br/>
+
+**`[ Data Engineering ]`**
+<br/>
+![PySpark](https://img.shields.io/badge/PySpark-1A1B27?style=for-the-badge&logo=apachespark&logoColor=FCA5A5)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-1A1B27?style=for-the-badge&logo=amazonaws&logoColor=FCA5A5)
+![NumPy](https://img.shields.io/badge/NumPy-1A1B27?style=for-the-badge&logo=numpy&logoColor=FCA5A5)
+![Pandas](https://img.shields.io/badge/Pandas-1A1B27?style=for-the-badge&logo=pandas&logoColor=FCA5A5)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1A1B27?style=for-the-badge&logoColor=FCA5A5)
+![Seaborn](https://img.shields.io/badge/Seaborn-1A1B27?style=for-the-badge&logoColor=FCA5A5)
+
+<br/>
+
+**`[ Databases ]`**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1B27?style=for-the-badge&logo=postgresql&logoColor=93C5FD)
+![MySQL](https://img.shields.io/badge/MySQL-1A1B27?style=for-the-badge&logo=mysql&logoColor=93C5FD)
+![MongoDB](https://img.shields.io/badge/MongoDB-1A1B27?style=for-the-badge&logo=mongodb&logoColor=93C5FD)
+![Neo4j](https://img.shields.io/badge/Neo4j-1A1B27?style=for-the-badge&logo=neo4j&logoColor=93C5FD)
+
+<br/>
+
+**`[ Cloud Platforms ]`**
+<br/>
+![AWS](https://img.shields.io/badge/AWS-1A1B27?style=for-the-badge&logo=amazonaws&logoColor=FFD93D)
+![Azure](https://img.shields.io/badge/Azure-1A1B27?style=for-the-badge&logo=microsoftazure&logoColor=FFD93D)
+![GCP](https://img.shields.io/badge/GCP-1A1B27?style=for-the-badge&logo=googlecloud&logoColor=FFD93D)
+
+<br/>
+
+**`[ Dev Tools & Interfaces ]`**
+<br/>
+![Streamlit](https://img.shields.io/badge/Streamlit-1A1B27?style=for-the-badge&logo=streamlit&logoColor=6EE7B7)
+![Gradio](https://img.shields.io/badge/Gradio-1A1B27?style=for-the-badge&logoColor=6EE7B7)
+![Node.js](https://img.shields.io/badge/Node.js-1A1B27?style=for-the-badge&logo=nodedotjs&logoColor=6EE7B7)
+![Git](https://img.shields.io/badge/Git-1A1B27?style=for-the-badge&logo=git&logoColor=6EE7B7)
+![GitHub](https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=6EE7B7)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1A1B27?style=for-the-badge&logo=githubactions&logoColor=6EE7B7)
+![Docker](https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker&logoColor=6EE7B7)
 
 </div>
 
