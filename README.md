@@ -8,12 +8,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Raghav0079&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Raghav0079?label=FOLLOWERS&style=for-the-badge&color=FF6B6B&labelColor=1A1B27&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/github/stars/Raghav0079?label=STARS&style=for-the-badge&color=FFD93D&labelColor=1A1B27&logo=github&logoColor=white"/>
-
-<br/><br/>
-
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-mishra-9a4431329/)
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raghav0079)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Raghav_385/)
@@ -219,7 +213,7 @@ class AIEngineer:
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Raghav0079/Raghav0079/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-<sub>Auto-generated daily via GitHub Actions — see setup note at the bottom of this file</sub>
+<sub>Auto-generated daily via GitHub Actions</sub>
 </div>
 
 [![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -228,7 +222,7 @@ class AIEngineer:
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Raghav0079/Raghav0079/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-<sub>Auto-generated daily via GitHub Actions — see setup note at the bottom of this file</sub>
+<sub>Auto-generated daily via GitHub Actions</sub>
 </div>
 
 <br/>
@@ -240,78 +234,3 @@ class AIEngineer:
 *Always reading papers. Always shipping code.*
 
 </div>
-
-<!--
-=====================================================================
-SETUP NOTES — two widgets above need a one-time GitHub Action in the
-repo literally named after your username (Raghav0079/Raghav0079).
-Create it if it doesn't exist yet, then add these workflow files.
-=====================================================================
-
-1) CONTRIBUTION SNAKE
-   File: .github/workflows/snake.yml
-
-     name: generate snake
-     on:
-       schedule:
-         - cron: "0 */6 * * *"
-       workflow_dispatch:
-       push:
-         branches: [ main ]
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             id: snake-gif
-             with:
-               github_user_name: Raghav0079
-               outputs: |
-                 dist/github-contribution-grid-snake.svg
-                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v4
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-2) 3D CONTRIBUTION GRAPH
-   File: .github/workflows/3d-contrib.yml
-
-     name: 3D Profile Contribution
-     on:
-       schedule:
-         - cron: "0 */12 * * *"
-       workflow_dispatch:
-     jobs:
-       build:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: actions/checkout@v4
-           - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-               USERNAME: Raghav0079
-           - name: Commit & push
-             run: |
-               git config user.name github-actions
-               git config user.email github-actions@github.com
-               git add profile-3d-contrib && git commit -m "generate 3d contrib" || true
-               git push
-
-   After the first successful run of each workflow the images above
-   will render automatically. Until then they may show as broken
-   links — that's expected before the first run.
-
-3) WHY THE TROPHY WIDGET WAS REMOVED
-   github-profile-trophy.vercel.app runs on a free, unmaintained
-   Vercel instance that frequently rate-limits or goes down — that's
-   what was breaking it. The static shields.io badges above ("Patent
-   Holder", "Open Source", "CGPA") replace it and will never go down
-   since they're plain badge images, not a live render API. If you
-   still want real trophies, self-host the same generator via your
-   own GitHub Action instead of relying on the public instance —
-   ask and I'll wire that up too.
-=====================================================================
--->
