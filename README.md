@@ -17,11 +17,16 @@
 
 <br/>
 
+<!-- PROFILE VIEW COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=Raghav0079&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Raghav0079?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d1117" alt="Followers"/>
+
 </div>
 
 <br/>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 ## ◈ About Me
 
@@ -54,6 +59,14 @@ achievements:
 
 ---
 
+## ◈ GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Raghav0079&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
+</div>
+
+---
+
 ## ◈ Activity & Streaks
 
 <div align="center">
@@ -63,6 +76,21 @@ achievements:
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav0079&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=2d1b69&hide_border=true&custom_title=Contribution%20Graph&title_color=a78bfa&radius=6" width="97%"/>
+
+</div>
+
+---
+
+## ◈ Contribution Snake 🐍
+
+<div align="center">
+
+<!--
+  This animation is generated automatically via GitHub Actions
+  (Platane/snk) and updates daily. Add the workflow below to your
+  repo to keep it live — see "Setup Notes" at the bottom of this file.
+-->
+<img src="https://raw.githubusercontent.com/Raghav0079/Raghav0079/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake animation"/>
 
 </div>
 
@@ -184,10 +212,75 @@ achievements:
 
 ---
 
+## ◈ Random Dev Quote
+
 <div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+
+<!-- ANIMATED WAVING HAND -->
+<img src="https://raw.githubusercontent.com/Animesh-Bauri/Animesh-Bauri/master/wave.gif" width="50"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:000000&height=120&section=footer" width="100%"/>
 
 *Always reading papers. Always shipping code.*
 
 </div>
+
+<!--
+=====================================================================
+SETUP NOTES (delete this block once configured, or keep for reference)
+=====================================================================
+
+1) PROFILE VIEW COUNTER
+   Already live — komarev.com generates this on the fly, no setup needed.
+
+2) GITHUB TROPHIES
+   Already live — github-profile-trophy.vercel.app generates this on
+   the fly, no setup needed.
+
+3) CONTRIBUTION SNAKE (the animated eating-the-grid GIF)
+   This one needs a tiny GitHub Action in THIS repo (the one named
+   exactly like your username, e.g. Raghav0079/Raghav0079) to generate
+   the SVG daily. Add a file at:
+     .github/workflows/snake.yml
+   with:
+
+     name: generate snake
+     on:
+       schedule:
+         - cron: "0 */6 * * *"
+       workflow_dispatch:
+       push:
+         branches: [ main ]
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: Platane/snk@v3
+             id: snake-gif
+             with:
+               github_user_name: Raghav0079
+               outputs: |
+                 dist/github-contribution-grid-snake.svg
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v4
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+   After the first run, the SVG will exist at the `output` branch and
+   the <img> tag above will render automatically. Until then it may
+   show as a broken image link.
+
+4) RANDOM DEV QUOTE WIDGET
+   Already live — no setup needed, refreshes itself on each page load.
+
+=====================================================================
+-->
