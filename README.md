@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0d1a,60:1a0533,100:2d1b69&height=220&section=header&text=Raghav%20Mishra&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Researcher%20%E2%80%94%20Builder&descAlignY=60&descColor=c4b5fd&animation=fadeIn&fontAlign=50" width="100%"/>
+<img src="https://raw.githubusercontent.com/Raghav0079/Raghav0079/main/assets/header.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=40&lines=Building+end-to-end+intelligent+systems+%F0%9F%A7%A0;From+model+internals+%E2%86%92+production+deployment+%F0%9F%9A%80;LLMs+%C2%B7+Deep+Learning+%C2%B7+Agentic+AI+%C2%B7+Data+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=00D4C8&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=40&lines=Building+end-to-end+intelligent+systems+%F0%9F%A7%A0;From+model+internals+%E2%86%92+production+deployment+%F0%9F%9A%80;LLMs+%C2%B7+Deep+Learning+%C2%B7+Agentic+AI+%C2%B7+Data+Engineering" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -20,9 +20,7 @@
 
 ## SYSTEM.INIT()
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=Raghav0079&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true" />
-
-**View Full Engineer Profile (click to expand)**
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=Raghav0079&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4c8&icon_color=00d4c8&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true" />
 
 ```python
 class AIEngineer:
@@ -71,79 +69,79 @@ class AIEngineer:
 
 **`[ Languages ]`**
 <br/>
-![Python](https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=7C3AED)
-![C](https://img.shields.io/badge/C-1A1B27?style=for-the-badge&logo=c&logoColor=7C3AED)
-![C++](https://img.shields.io/badge/C++-1A1B27?style=for-the-badge&logo=cplusplus&logoColor=7C3AED)
-![Java](https://img.shields.io/badge/Java-1A1B27?style=for-the-badge&logo=oracle&logoColor=7C3AED)
-![JavaScript](https://img.shields.io/badge/JavaScript-1A1B27?style=for-the-badge&logo=javascript&logoColor=7C3AED)
-![R](https://img.shields.io/badge/R-1A1B27?style=for-the-badge&logo=r&logoColor=7C3AED)
-![Julia](https://img.shields.io/badge/Julia-1A1B27?style=for-the-badge&logo=julia&logoColor=7C3AED)
-![SQL](https://img.shields.io/badge/SQL-1A1B27?style=for-the-badge&logo=postgresql&logoColor=7C3AED)
-![NoSQL](https://img.shields.io/badge/NoSQL-1A1B27?style=for-the-badge&logo=mongodb&logoColor=7C3AED)
-![LaTeX](https://img.shields.io/badge/LaTeX-1A1B27?style=for-the-badge&logo=latex&logoColor=7C3AED)
+![Python](https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=00D4C8)
+![C](https://img.shields.io/badge/C-1A1B27?style=for-the-badge&logo=c&logoColor=00D4C8)
+![C++](https://img.shields.io/badge/C++-1A1B27?style=for-the-badge&logo=cplusplus&logoColor=00D4C8)
+![Java](https://img.shields.io/badge/Java-1A1B27?style=for-the-badge&logo=oracle&logoColor=00D4C8)
+![JavaScript](https://img.shields.io/badge/JavaScript-1A1B27?style=for-the-badge&logo=javascript&logoColor=00D4C8)
+![R](https://img.shields.io/badge/R-1A1B27?style=for-the-badge&logo=r&logoColor=00D4C8)
+![Julia](https://img.shields.io/badge/Julia-1A1B27?style=for-the-badge&logo=julia&logoColor=00D4C8)
+![SQL](https://img.shields.io/badge/SQL-1A1B27?style=for-the-badge&logo=postgresql&logoColor=00D4C8)
+![NoSQL](https://img.shields.io/badge/NoSQL-1A1B27?style=for-the-badge&logo=mongodb&logoColor=00D4C8)
+![LaTeX](https://img.shields.io/badge/LaTeX-1A1B27?style=for-the-badge&logo=latex&logoColor=00D4C8)
 
 <br/>
 
 **`[ Machine Learning · Deep Learning ]`**
 <br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-1A1B27?style=for-the-badge&logo=pytorch&logoColor=A78BFA)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1A1B27?style=for-the-badge&logo=tensorflow&logoColor=A78BFA)
-![Keras](https://img.shields.io/badge/Keras-1A1B27?style=for-the-badge&logo=keras&logoColor=A78BFA)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-1A1B27?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA)
-![OpenCV](https://img.shields.io/badge/OpenCV-1A1B27?style=for-the-badge&logo=opencv&logoColor=A78BFA)
-![Transformers](https://img.shields.io/badge/Transformers-1A1B27?style=for-the-badge&logo=huggingface&logoColor=A78BFA)
+![PyTorch](https://img.shields.io/badge/PyTorch-1A1B27?style=for-the-badge&logo=pytorch&logoColor=00D4C8)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1A1B27?style=for-the-badge&logo=tensorflow&logoColor=00D4C8)
+![Keras](https://img.shields.io/badge/Keras-1A1B27?style=for-the-badge&logo=keras&logoColor=00D4C8)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-1A1B27?style=for-the-badge&logo=scikitlearn&logoColor=00D4C8)
+![OpenCV](https://img.shields.io/badge/OpenCV-1A1B27?style=for-the-badge&logo=opencv&logoColor=00D4C8)
+![Transformers](https://img.shields.io/badge/Transformers-1A1B27?style=for-the-badge&logo=huggingface&logoColor=00D4C8)
 
 <br/>
 
 **`[ LLM & Agentic AI ]`**
 <br/>
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1A1B27?style=for-the-badge&logo=huggingface&logoColor=C4B5FD)
-![LangChain](https://img.shields.io/badge/LangChain-1A1B27?style=for-the-badge&logo=langchain&logoColor=C4B5FD)
-![LangGraph](https://img.shields.io/badge/LangGraph-1A1B27?style=for-the-badge&logoColor=C4B5FD)
-![LangFlow](https://img.shields.io/badge/LangFlow-1A1B27?style=for-the-badge&logoColor=C4B5FD)
-![Ollama](https://img.shields.io/badge/Ollama-1A1B27?style=for-the-badge&logoColor=C4B5FD)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-1A1B27?style=for-the-badge&logo=amazonaws&logoColor=C4B5FD)
-![Unsloth](https://img.shields.io/badge/Unsloth-1A1B27?style=for-the-badge&logoColor=C4B5FD)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1A1B27?style=for-the-badge&logo=huggingface&logoColor=00D4C8)
+![LangChain](https://img.shields.io/badge/LangChain-1A1B27?style=for-the-badge&logo=langchain&logoColor=00D4C8)
+![LangGraph](https://img.shields.io/badge/LangGraph-1A1B27?style=for-the-badge&logoColor=00D4C8)
+![LangFlow](https://img.shields.io/badge/LangFlow-1A1B27?style=for-the-badge&logoColor=00D4C8)
+![Ollama](https://img.shields.io/badge/Ollama-1A1B27?style=for-the-badge&logoColor=00D4C8)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-1A1B27?style=for-the-badge&logo=amazonaws&logoColor=00D4C8)
+![Unsloth](https://img.shields.io/badge/Unsloth-1A1B27?style=for-the-badge&logoColor=00D4C8)
 
 <br/>
 
 **`[ Data Engineering ]`**
 <br/>
-![PySpark](https://img.shields.io/badge/PySpark-1A1B27?style=for-the-badge&logo=apachespark&logoColor=FCA5A5)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-1A1B27?style=for-the-badge&logo=amazonaws&logoColor=FCA5A5)
-![NumPy](https://img.shields.io/badge/NumPy-1A1B27?style=for-the-badge&logo=numpy&logoColor=FCA5A5)
-![Pandas](https://img.shields.io/badge/Pandas-1A1B27?style=for-the-badge&logo=pandas&logoColor=FCA5A5)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1A1B27?style=for-the-badge&logoColor=FCA5A5)
-![Seaborn](https://img.shields.io/badge/Seaborn-1A1B27?style=for-the-badge&logoColor=FCA5A5)
+![PySpark](https://img.shields.io/badge/PySpark-1A1B27?style=for-the-badge&logo=apachespark&logoColor=00D4C8)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-1A1B27?style=for-the-badge&logo=amazonaws&logoColor=00D4C8)
+![NumPy](https://img.shields.io/badge/NumPy-1A1B27?style=for-the-badge&logo=numpy&logoColor=00D4C8)
+![Pandas](https://img.shields.io/badge/Pandas-1A1B27?style=for-the-badge&logo=pandas&logoColor=00D4C8)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1A1B27?style=for-the-badge&logoColor=00D4C8)
+![Seaborn](https://img.shields.io/badge/Seaborn-1A1B27?style=for-the-badge&logoColor=00D4C8)
 
 <br/>
 
 **`[ Databases ]`**
 <br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1B27?style=for-the-badge&logo=postgresql&logoColor=93C5FD)
-![MySQL](https://img.shields.io/badge/MySQL-1A1B27?style=for-the-badge&logo=mysql&logoColor=93C5FD)
-![MongoDB](https://img.shields.io/badge/MongoDB-1A1B27?style=for-the-badge&logo=mongodb&logoColor=93C5FD)
-![Neo4j](https://img.shields.io/badge/Neo4j-1A1B27?style=for-the-badge&logo=neo4j&logoColor=93C5FD)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1B27?style=for-the-badge&logo=postgresql&logoColor=00D4C8)
+![MySQL](https://img.shields.io/badge/MySQL-1A1B27?style=for-the-badge&logo=mysql&logoColor=00D4C8)
+![MongoDB](https://img.shields.io/badge/MongoDB-1A1B27?style=for-the-badge&logo=mongodb&logoColor=00D4C8)
+![Neo4j](https://img.shields.io/badge/Neo4j-1A1B27?style=for-the-badge&logo=neo4j&logoColor=00D4C8)
 
 <br/>
 
 **`[ Cloud Platforms ]`**
 <br/>
-![AWS](https://img.shields.io/badge/AWS-1A1B27?style=for-the-badge&logo=amazonaws&logoColor=FFD93D)
-![Azure](https://img.shields.io/badge/Azure-1A1B27?style=for-the-badge&logo=microsoftazure&logoColor=FFD93D)
-![GCP](https://img.shields.io/badge/GCP-1A1B27?style=for-the-badge&logo=googlecloud&logoColor=FFD93D)
+![AWS](https://img.shields.io/badge/AWS-1A1B27?style=for-the-badge&logo=amazonaws&logoColor=00D4C8)
+![Azure](https://img.shields.io/badge/Azure-1A1B27?style=for-the-badge&logo=microsoftazure&logoColor=00D4C8)
+![GCP](https://img.shields.io/badge/GCP-1A1B27?style=for-the-badge&logo=googlecloud&logoColor=00D4C8)
 
 <br/>
 
 **`[ Dev Tools & Interfaces ]`**
 <br/>
-![Streamlit](https://img.shields.io/badge/Streamlit-1A1B27?style=for-the-badge&logo=streamlit&logoColor=6EE7B7)
-![Gradio](https://img.shields.io/badge/Gradio-1A1B27?style=for-the-badge&logoColor=6EE7B7)
-![Node.js](https://img.shields.io/badge/Node.js-1A1B27?style=for-the-badge&logo=nodedotjs&logoColor=6EE7B7)
-![Git](https://img.shields.io/badge/Git-1A1B27?style=for-the-badge&logo=git&logoColor=6EE7B7)
-![GitHub](https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=6EE7B7)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1A1B27?style=for-the-badge&logo=githubactions&logoColor=6EE7B7)
-![Docker](https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker&logoColor=6EE7B7)
+![Streamlit](https://img.shields.io/badge/Streamlit-1A1B27?style=for-the-badge&logo=streamlit&logoColor=00D4C8)
+![Gradio](https://img.shields.io/badge/Gradio-1A1B27?style=for-the-badge&logoColor=00D4C8)
+![Node.js](https://img.shields.io/badge/Node.js-1A1B27?style=for-the-badge&logo=nodedotjs&logoColor=00D4C8)
+![Git](https://img.shields.io/badge/Git-1A1B27?style=for-the-badge&logo=git&logoColor=00D4C8)
+![GitHub](https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=00D4C8)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1A1B27?style=for-the-badge&logo=githubactions&logoColor=00D4C8)
+![Docker](https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker&logoColor=00D4C8)
 
 </div>
 
@@ -181,10 +179,9 @@ class AIEngineer:
 
 <br/><br/>
 
-<!-- Static badges in place of the GitHub Trophy API, which is frequently unreliable/down -->
 ![Patent Holder](https://img.shields.io/badge/PATENT%20HOLDER-3x-FFD700?style=for-the-badge&logo=verizon&logoColor=white&labelColor=1A1B27)
 ![Open Source](https://img.shields.io/badge/GSSoC%202026-PR%20Merged-2EA44F?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27)
-![CGPA](https://img.shields.io/badge/CGPA-8.02%2F10-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1A1B27)
+![CGPA](https://img.shields.io/badge/CGPA-8.02%2F10-00D4C8?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1A1B27)
 
 </div>
 
@@ -194,15 +191,15 @@ class AIEngineer:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghav0079&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=c4b5fd&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&border_radius=8" width="75%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghav0079&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4c8&ring=00d4c8&fire=c4b5fd&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00d4c8&sideLabels=8b949e&dates=8b949e&border_radius=8" width="75%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav0079&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=2d1b69&hide_border=true&custom_title=Contribution%20Graph&title_color=a78bfa&radius=6" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav0079&bg_color=0d1117&color=00d4c8&line=00d4c8&point=c4b5fd&area=true&area_color=071e26&hide_border=true&custom_title=Contribution%20Graph&title_color=00d4c8&radius=6" width="97%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav0079&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav0079&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4c8&text_color=c9d1d9&langs_count=8" width="48%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghav0079&theme=tokyonight" width="48%"/>
 
 </div>
@@ -228,9 +225,7 @@ class AIEngineer:
 <br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071018,50:071e26,100:000000&height=120&section=footer" width="100%"/>
 
 *Always reading papers. Always shipping code.*
-
 </div>
