@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="100%">
+<style>
+  @keyframes floatUp {
+    0%, 100% { transform: translateY(0); }
+    50%       { transform: translateY(-6px); }
+  }
+  @keyframes breatheSlow {
+    0%, 100% { opacity: 0.5; }
+    50%       { opacity: 1;   }
+  }
+  @keyframes glowRotate {
+    0%   { transform: rotate(0deg);   }
+    100% { transform: rotate(360deg); }
+  }
+</style>
+<defs>
+  <linearGradient id="signBg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%"   stop-color="#040d1e"/>
+    <stop offset="100%" stop-color="#010914"/>
+  </linearGradient>
+  <radialGradient id="centerGlow">
+    <stop offset="0%"   stop-color="#00D4C8" stop-opacity="0.06"/>
+    <stop offset="100%" stop-color="#010914" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="900" height="220" fill="url(#signBg)" rx="0"/>
+<ellipse cx="450" cy="110" rx="320" ry="90" fill="url(#centerGlow)" style="animation: breatheSlow 6s ease-in-out infinite;"/>
+<g style="transform-origin:450px 110px; animation: glowRotate 30s linear infinite;">
+  <ellipse cx="450" cy="110" rx="280" ry="75" fill="none" stroke="#00D4C8" stroke-width="0.5" stroke-opacity="0.1" stroke-dasharray="8 12"/>
+</g>
+<g style="transform-origin:450px 110px; animation: glowRotate 20s linear infinite reverse;">
+  <ellipse cx="450" cy="110" rx="220" ry="55" fill="none" stroke="#a78bfa" stroke-width="0.5" stroke-opacity="0.08" stroke-dasharray="5 10"/>
+</g>
+<foreignObject x="0" y="0" width="900" height="220">
+  <div xmlns="http://www.w3.org/1999/xhtml" style="
+    width:100%; height:100%;
+    display:flex; flex-direction:column;
+    align-items:center; justify-content:center;
+    font-family:'Courier New',monospace;
+    color:#fff; text-align:center;
+    box-sizing:border-box; padding:20px;
+  ">
+    <div style="animation: floatUp 5s ease-in-out infinite; margin-bottom:6px;">
+      <div style="font-size:12px; letter-spacing:2px; color:#00D4C8; animation: breatheSlow 4s ease-in-out infinite;">
+        "I am not just writing code. I am encoding intelligence."
+      </div>
+    </div>
+    <div style="animation: floatUp 6s ease-in-out infinite 0.8s; margin-bottom:6px;">
+      <div style="font-size:12px; letter-spacing:2px; color:#a78bfa; animation: breatheSlow 4s ease-in-out infinite 1s;">
+        "Every pipeline is a step toward understanding data at scale."
+      </div>
+    </div>
+    <div style="animation: floatUp 7s ease-in-out infinite 1.6s; margin-bottom:16px;">
+      <div style="font-size:12px; letter-spacing:2px; color:#c4b5fd; animation: breatheSlow 4s ease-in-out infinite 2s;">
+        "Production deployment isn't the end. It's where learning begins."
+      </div>
+    </div>
+    <div style="animation: floatUp 8s ease-in-out infinite 0.5s;">
+      <div style="font-size:11px; letter-spacing:4px; color:#6d8fa8; font-style:italic; animation: breatheSlow 6s ease-in-out infinite;">
+        From model internals to production deployment.
+      </div>
+    </div>
+    <div style="animation: breatheSlow 8s ease-in-out infinite 2s; margin-top:12px;">
+      <div style="font-size:9px; letter-spacing:2px; color:rgba(255,255,255,0.3); font-style:italic;">
+        Always reading papers. Always shipping code.
+      </div>
+    </div>
+  </div>
+</foreignObject>
+</svg>
