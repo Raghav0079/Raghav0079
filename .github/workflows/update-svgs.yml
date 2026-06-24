@@ -1,0 +1,56 @@
+# ─────────────────────────────────────────────────────────────────
+#  GitHub Actions: Regenerate all animated SVG assets daily
+#  Adapted from Devanik21/Devanik21 for Raghav0079/Raghav0079
+# ─────────────────────────────────────────────────────────────────
+name: 🔄 Regenerate Animated SVGs
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Every day at midnight UTC
+  workflow_dispatch:        # Allow manual trigger from Actions tab
+  push:
+    paths:                  # Also run when any generator script changes
+      - "generate_*.py"
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # 1. Checkout repo
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 2. Set up Python
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 3. Ensure assets/ directory exists
+      - name: Ensure assets directory
+        run: mkdir -p assets
+
+      # 4. Run all SVG generators
+      - name: Generate living-hero.svg + living-signoff.svg
+        run: python generate_living_sections.py
+
+      - name: Generate living-neural-pulse.svg (divider)
+        run: python generate_living_divider.py
+
+      - name: Generate digital-ocean-wave.svg
+        run: python generate_wave.py
+
+      - name: Generate quantum-singularity.svg
+        run: python generate_isometric.py
+
+      # 5. Commit updated SVGs back to repo
+      - name: Commit & push updated SVGs
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --cached --quiet || git commit -m "🤖 Auto-regenerate animated SVG assets [$(date -u '+%Y-%m-%d')]"
+          git push
